@@ -1,6 +1,6 @@
 # Official Web-page
 
-This is the official web page for the organization.Any updates regarding the organization including all the articles, reports as well as additional information about us will be uploaded from time to time. 
+This is the official web page for the organization. Any updates regarding the organization including all the articles, reports as well as additional information about us will be uploaded from time to time. 
 
 ---
 
