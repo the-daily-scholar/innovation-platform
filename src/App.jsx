@@ -7,6 +7,8 @@ import './App.css'
 import Navbar from './components/Navbar'
 import Home from './pages/Home'
 
+// Function for Page Layout
+
 function Layout(){
   return (
   <div className="w-full min-h-screen flex flex-col">
@@ -21,8 +23,8 @@ function Layout(){
 
 }
 
-function App() {
 
+function App() {
 
   return (
     <main>

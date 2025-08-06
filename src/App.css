@@ -1,2 +1,39 @@
 @import "tailwindcss";
 
+
+@theme {
+    /* Core branding colors */
+  --color-brandPrimary: #12418d;       /* Deep blue */
+  --color-brandSecondary: #2f84a9;     /* Medium blue */
+  --color-brandTertiary: #8ecaef;      /* Light blue */
+  
+  /* Accent colors */
+  --color-accentPrimary: #ef601e;      /* Vibrant orange */
+  --color-accentSecondary: #fa9939;    /* Warm orange */
+  --color-accentTertiary: #f7ce4d;     /* Golden yellow */
+  
+  /* Neutral colors */
+  --color-pureWhite: #ffffff;
+  --color-paperWhite: #f8f8ff;         /* Slightly off-white */
+  --color-lightWarm: #f9eeb6;          /* Pale cream */
+  --color-lightCool: #f8dcbf;          /* Peach cream */
+  --color-lightPeach: #fcebdd;         /* a soft, warm pale peach */
+  --color-mediumNeutral: #d5c5c7;      /* Grayish pink */
+  --color-warmGray: #ddc1a7;           /* Beige */
+  --color-darkWarm: #bd9479;           /* Muted brown */
+  --color-darkCool: #745e4d;           /* Cool brown */
+  --color-deepGray: #1f2937;           /* Tailwind's text-gray-800 */
+  --color-charcoal: #5b4f47;           /* Dark brown-gray */
+  --color-deepCharcoal: #373d3b;       /* Almost black */
+  --color-pureBlack: #000000;
+  
+  /* Special colors */
+  --color-eggplant: #5e376d;            /* Deep purple */
+  --color-navy: #001f3d;                /* Very dark blue */
+  
+  /* Added complementary colors */
+  --color-successGreen: #4caf50;        /* For positive actions */
+  --color-errorRed: #f44336;            /* For errors/warnings */
+  --color-alertYellow: #ffeb3b;         /* For cautions */
+  --color-infoBlue: #2196f3;            /* For informational items */
+  }
